@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<menu>
+    <item price="300" kcal="680">並盛</item>
+    <item price="390" kcal="733">アタマの大盛</item>
+    <item price="460" kcal="851">大盛</item>
+    <item price="560" kcal="1022">特盛</item>
+</menu>
